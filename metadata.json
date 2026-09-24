@@ -1,0 +1,6 @@
+{
+  "name": "Planner da Noiva",
+  "description": "Planeje o seu grande dia sem se perder nos detalhes. Planners digitais elegantes, práticos e completos para noivas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
